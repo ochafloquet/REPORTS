@@ -16,6 +16,6 @@
  request.getSession().removeAttribute("UserLogin");
  
  session.invalidate();
- response.sendRedirect("/ReportesDETEL/");
+ response.sendRedirect("/REPORTES/");
  
 %>

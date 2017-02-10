@@ -4,7 +4,6 @@
     Author     : SOPORTE
 --%>
 
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <div class="top_nav">
           <div class="nav_menu">
             <nav>

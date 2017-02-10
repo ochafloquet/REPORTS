@@ -4,7 +4,6 @@
     Author     : SOPORTE
 --%>
 
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <div class="col-md-3 left_col">
           <div class="left_col scroll-view">
             <div class="navbar nav_title" style="border: 0;">

@@ -4,8 +4,6 @@
     Author     : SOPORTE
 --%>
 
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
-
  <!-- jQuery -->
     <script src="../js/jquery.min.js"></script>
     <!-- Bootstrap -->

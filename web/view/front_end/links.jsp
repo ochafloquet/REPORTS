@@ -3,8 +3,6 @@
     Created on : 09/02/2017, 11:09:25 AM
     Author     : SOPORTE
 --%>
-
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
     <link href="../css/bootstrap.min.css" rel="stylesheet">
     <!-- Font Awesome -->
     <link href="../css/font-awesome.min.css" rel="stylesheet">
